@@ -1,0 +1,13 @@
+package com.example.docker_AS;
+
+import org.junit.jupiter.api.Test;
+import org.springframework.boot.test.context.SpringBootTest;
+
+@SpringBootTest
+class DockerAsApplicationTests {
+
+	@Test
+	void contextLoads() {
+	}
+
+}
